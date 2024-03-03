@@ -1,0 +1,77 @@
+{
+  "name": "Edmilson Cristo",
+  "photo": "https://https://avatars.githubusercontent.com/u/87654247?v=4",
+  "job": "Front-end Developer",
+  "location": "São João de Meriti - RJ",
+  "phone": "(21) 9869-21785",
+  "email": "edmilsonivair@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Html",
+        "logo": "https://github.com/edycristo03/js-developer-portfolio/blob/main/data/imgs/html.png"
+      },
+      {
+        "name": "Css",
+        "logo": "https://github.com/edycristo03/js-developer-portfolio/blob/main/data/imgs/css.png"
+      },
+      {
+        "name": "Js",
+        "logo": "https://github.com/edycristo03/js-developer-portfolio/blob/main/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+
+      {
+        "name": "Node Js",
+        "logo": "https://github.com/edycristo03/js-developer-portfolio/blob/main/data/imgs/nodejs.png"
+      }
+      
+    ],
+    "softSkills": [
+      "Empatia",
+      "Facilidade com tarefas práticas",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Comunicação",
+      "Comprometimento com resultados"
+
+    ]
+  },
+  "languages": [
+    "Português BR"
+    
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/edycristo03/podedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado no Dev Club para a criação de uma página de conversão de moedas",
+      "url": "https://github.com/edycristo03/projeto-conversor-de-moedas",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": " Front-end Developer / Dev Club",
+      "period": "2024 - até o momento",
+      "description": "É um prazer fazer parte dessa família, ao lado de tantos profissionais excepcionais e construir tantos projetos inovadores."
+    },
+    {
+      "name": " Formação Javascript Developer / DIO",
+      "period": "2023 - 2024",
+      "description": "Foi uma grande experiência participar desta formação. Time fantástico!  pude aprender muitas tecnicas utilizadas no mercado."
+    }
+   
+  ]
+}
